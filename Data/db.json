@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Amethyst",
+      "body": "Aside from being beautiful, amethyst is so incredible. This crystal can offer protection and heightened intuition. In fact, it can also reduce stress. This purple-colored crystal is believed to inspire logical thinking. It can pull the mind away from negative tendencies and thought patterns.\n\nAmethyst will protect you from psychic attacks and connect you with inner spiritual wisdom while boosting your intuition. It even supports positive transformation, clear communication and a healthy immune system.",
+      "author": "mario",
+      "id": 12
+    },
+    {
+      "title": "Philippians 4:6–7 (NIV)",
+      "body": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "author": "mario",
+      "id": 13
+    },
+    {
+      "title": "Matthew 6:31–34 (NIV)",
+      "body": "\"So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or \"What shall we wear?' For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first His kingdom and His righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.\"",
+      "author": "mario",
+      "id": 14
+    },
+    {
+      "title": "1 Peter 5:6–7",
+      "body": "Humble yourselves, therefore, under the mighty hand of God so that at the proper time He may exalt you, casting all your anxieties on Him, because He cares for you.",
+      "author": "mario",
+      "id": 15
+    }
+  ]
+}
